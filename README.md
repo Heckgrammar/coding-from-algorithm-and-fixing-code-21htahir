@@ -3,6 +3,8 @@
 In your notes copy the table and complete it.
 
 ![image](https://github.com/MrAStone/StartEndCodeFixingTask/assets/60425249/2c96d63f-1681-4b62-b50b-48fb68eba186)
+<img width="436" alt="image" src="https://github.com/user-attachments/assets/abbc478d-58b1-4e01-96c8-d9a78feda008" />
+
 
 
 Do the coding task in C#
